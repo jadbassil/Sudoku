@@ -1,2 +1,2 @@
 # Sudoku
-A simple c++ application the generates 9x9 sudoku grid.
+A simple c++ application that generates 9x9 sudoku grid.
